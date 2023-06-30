@@ -29,7 +29,7 @@
 },
 "remediateSettings": {
 "workflowRules": {
-"enabled": false
+"enabled": true
 }
 }
 }
